@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true">
 
-    <krelve.app.kuaihu.view.RevealBackgroundView
+    <cn.qqwh.zhihuwanbao.view.RevealBackgroundView
         android:id="@+id/revealBackgroundView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
